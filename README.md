@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaykorade
 - 👀 I’m interested in ...Data science
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
